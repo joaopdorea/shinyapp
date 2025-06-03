@@ -1,0 +1,10 @@
+name: api_student
+title:
+username: joaodorea
+account: joaodorea
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14869635
+bundleId: 10386113
+url: https://joaodorea.shinyapps.io/api_student/
+version: 1
